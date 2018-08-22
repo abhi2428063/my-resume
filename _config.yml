@@ -1,6 +1,8 @@
 # Site settings
-title: "Newest Resume Template"
-description: "Newest template for Jekyll and GitHub Pages sites."
+my-title
+title: "Whatttt Resume Template"
+description: "Whatttt template for Jekyll and GitHub Pages sites."
+master
 
 # Build settings
 markdown: kramdown
